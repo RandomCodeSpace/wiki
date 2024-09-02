@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Tutorial Intro","permalink":"/wiki/blog/intro","unlisted":false,"date":"2024-09-01T18:38:10.000Z"}]}')}}]);
